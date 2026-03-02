@@ -1,6 +1,8 @@
 bin/
 obj/
 out/
+.vs/
+**/.vs/
 .DS_Store
 Thumbs.db
 publish/
