@@ -1,0 +1,6 @@
+@SantanderApi_HostAddress = http://localhost:5134
+
+GET {{SantanderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

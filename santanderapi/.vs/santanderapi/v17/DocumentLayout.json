@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|c:\\users\\pablo- rtx40\\source\\repos\\santandertest\\santanderapi\\santanderapi\\infrastructure\\services\\hackerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|solutionrelative:santanderapi\\infrastructure\\services\\hackerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|c:\\users\\pablo- rtx40\\source\\repos\\santandertest\\santanderapi\\santanderapi\\application\\interfaces\\ihackerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|solutionrelative:santanderapi\\application\\interfaces\\ihackerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|c:\\users\\pablo- rtx40\\source\\repos\\santandertest\\santanderapi\\santanderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|solutionrelative:santanderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|c:\\users\\pablo- rtx40\\source\\repos\\santandertest\\santanderapi\\santanderapi\\api\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|solutionrelative:santanderapi\\api\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|c:\\users\\pablo- rtx40\\source\\repos\\santandertest\\santanderapi\\santanderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|solutionrelative:santanderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|c:\\users\\pablo- rtx40\\source\\repos\\santandertest\\santanderapi\\santanderapi\\application\\dtos\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347EDC81-1242-4B6D-AB6A-6D06AD816E84}|SantanderApi\\Santander.csproj|solutionrelative:santanderapi\\application\\dtos\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Program.cs",
+              "RelativeDocumentMoniker": "SantanderApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Program.cs",
+              "RelativeToolTip": "SantanderApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:09:25.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SantanderApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\appsettings.json",
+              "RelativeToolTip": "SantanderApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T17:58:33.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerApi.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Infrastructure\\Services\\HackerApi.cs",
+              "RelativeDocumentMoniker": "SantanderApi\\Infrastructure\\Services\\HackerApi.cs",
+              "ToolTip": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Infrastructure\\Services\\HackerApi.cs",
+              "RelativeToolTip": "SantanderApi\\Infrastructure\\Services\\HackerApi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:55:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHackerApi.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Application\\Interfaces\\IHackerApi.cs",
+              "RelativeDocumentMoniker": "SantanderApi\\Application\\Interfaces\\IHackerApi.cs",
+              "ToolTip": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Application\\Interfaces\\IHackerApi.cs",
+              "RelativeToolTip": "SantanderApi\\Application\\Interfaces\\IHackerApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:05:36.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Api\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "SantanderApi\\Api\\Controllers\\StoriesController.cs",
+              "ToolTip": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Api\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "SantanderApi\\Api\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:57:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Application\\Dtos\\StoryDto.cs",
+              "RelativeDocumentMoniker": "SantanderApi\\Application\\Dtos\\StoryDto.cs",
+              "ToolTip": "C:\\Users\\Pablo- Rtx40\\source\\repos\\santanderTest\\santanderapi\\SantanderApi\\Application\\Dtos\\StoryDto.cs",
+              "RelativeToolTip": "SantanderApi\\Application\\Dtos\\StoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:11:38.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
