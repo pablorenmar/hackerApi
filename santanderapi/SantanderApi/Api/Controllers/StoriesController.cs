@@ -15,7 +15,7 @@ namespace Santander.Api.Controllers
             this.hackerApi = hackerApi;
         }
 
-        [HttpGet("/best/{number:int}")]
+        [HttpGet("best/{number:int}")]
         public async Task<IActionResult> GetTopStories([FromRoute] int number)
         {
             List<int> lstStories = await hackerApi.GetBestStoriesAsync();
